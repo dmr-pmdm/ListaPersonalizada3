@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="columna_impar">#9CFAF3</color>
+    <color name="columna_par">#C1FAF5</color>
+    <color name="nombre_impar">#0B63A2</color>
+    <color name="nombre_par">#999999</color>
+</resources>
